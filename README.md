@@ -1,0 +1,2 @@
+# CarPark
+This Java application let user park and get ticket, it will register the user name, car model, time of arrival and leaving, I coded it in back-end and for the front-end i used JavaFX which is relatively new but very useful to make interface, event dispatch/handling; exception handling, throwing and catching exceptions all have been taken care in this project, that make it stable and reliable. also based on the spent time I makes it calculate the total prize, which also includes a discount for VIP members.
